@@ -3,7 +3,9 @@
 Welcome to my GitHub profile! 
 
 🌱 I’m currently learning Python!
+
 🎀 My Pronouns are she/her.
+
 ⚡ Fun fact: I´m an absolute beginner!
 
 <!--
